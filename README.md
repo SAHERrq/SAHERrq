@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:111827,100:1f2937&reversal=true&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:6366f1,100:3b82f6&textColor=ffffff&reversal=true&animation=fadeIn" />
 </div>
 
 <h2 align="center">Ahmed Saher</h2>
