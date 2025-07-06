@@ -1,21 +1,21 @@
-<h1 align="center">Hi, I'm Ahmed Saher</h1>
+<h1 align="center">Ahmed Saher</h1>
 
 <p align="center">
-  <strong>Salesforce Developer</strong> with a strong focus on building scalable CRM solutions using Apex, SOQL, and the Salesforce Platform.
+  Salesforce Developer focused on building scalable CRM solutions using Apex, SOQL, and the Salesforce Platform.
 </p>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 👨‍💻 I specialize in developing on the Salesforce Platform using Apex, Visualforce, and Lightning Web Components.
-- 🛠️ Experienced with tools like Git, GitHub, and Visual Studio Code.
-- 🔗 Visit my portfolio: [asaher.website](https://asaher.website)
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/ahmed-saherrw)
+I’m a Salesforce Developer with a strong understanding of Apex programming, database queries using SOQL, and building front-end components with Lightning Web Components (LWC). I follow best practices in version control and use modern development tools to deliver clean, maintainable code.
+
+You can find more about me and my work at:  
+[asaher.website](https://asaher.website)
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 ![Apex](https://img.shields.io/badge/-Apex-FF6F00?style=flat-square&logo=apachespark&logoColor=white)
@@ -30,8 +30,44 @@
 
 ---
 
-## 📊 GitHub Stats
+## Certifications
+
+- Salesforce Platform Developer I *(In Progress)*
+- Trailhead Superbadges (Apex Specialist, Process Automation, and more)
+- Udemy: The Complete Salesforce Development Course
+
+---
+
+## Projects
+
+- **Lead Manager App**  
+  A custom Salesforce app for tracking and assigning leads with Apex triggers and LWC components. *(Private repo – under development)*
+
+- **Portfolio Website**  
+  Built with modern HTML/CSS and deployed at: [asaher.website](https://asaher.website)
+
+> More projects will be added soon...
+
+---
+
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahmedsaher&show_icons=true&theme=default" alt="Ahmed's GitHub Stats" />
+</p>
+
+---
+
+## Contact Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmed-saherrw" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://asaher.website" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
